@@ -28,3 +28,10 @@ While this is a graphic design exercise, the techniques applied here—specifica
 ## Setup & Viewing
 1. View the exported high-resolution `PNG` or `JPG` included in this repository.
 2. Notice the interaction between the subject's hair and the background typography, demonstrating the core masking technique.
+
+## 📬 Let's Connect
+I am currently looking for design opportunities. Feel free to reach out!
+
+* **Email:** [pondharani.devendra22@gmail.com](mailto:pondharani.devendra22@gmail.com)
+* **LinkedIn:** [Pondharani Devendra](https://www.linkedin.com/in/pondharani-devendra-a809b339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
